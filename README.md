@@ -1,4 +1,4 @@
-# Structured Content Generator (GenAI)
+# Email Genie (GenAI)
 
 ## Objective
 Build a GenAI-powered application that generates **strictly structured JSON**
